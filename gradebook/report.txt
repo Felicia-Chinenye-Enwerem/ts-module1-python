@@ -1,0 +1,12 @@
+GRADEBOOK REPORT
+Class count: 4
+Class median: 81.54
+Class mean: 79.5
+Class highest score: Ada - 91
+Class lowest score: Emeka - 64
+
+STUDENT RESULTS
+Ada - Python -91 - A
+Tolu - Python -78 - C
+Chi - Python -85 - B
+Emeka - Python -64 - D
